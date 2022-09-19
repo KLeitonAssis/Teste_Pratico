@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste_Signa", "Teste_Signa\Teste_Signa.csproj", "{0B0B5B37-B8DE-421C-A667-64A827457502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B0B5B37-B8DE-421C-A667-64A827457502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B0B5B37-B8DE-421C-A667-64A827457502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B0B5B37-B8DE-421C-A667-64A827457502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B0B5B37-B8DE-421C-A667-64A827457502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1E03342-191C-43CF-BA10-514B2A8AC999}
+	EndGlobalSection
+EndGlobal
